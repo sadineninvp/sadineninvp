@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+AI+Engineer;Building+Agents+That+Ship+To+Production;Co-founder+%7C+Startup+DNA;From+Idea+To+Inference+In+Production&font=JetBrains+Mono&color=6C63FF&size=22&width=600&height=60&duration=3000&pause=1200&center=true&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Agents+That+Ship+To+Production;Co-founder+%7C+Startup+DNA;From+Idea+To+Inference+In+Production&font=JetBrains+Mono&color=6C63FF&size=22&width=600&height=60&duration=3000&pause=1200&center=true&vCenter=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
