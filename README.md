@@ -135,21 +135,37 @@ React + TypeScript frontends with streaming chat UIs, GSAP scroll animations, an
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadineninvp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadineninvp&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
-</p>
+### `> sudo cat philosophy.txt`
+
+```python
+while True:
+    problem = find_interesting_problem()
+    
+    if problem.is_hard and problem.matters:
+        solution = build(problem)
+        ship(solution)         # before it's perfect
+        measure(solution)      # because vibes aren't metrics
+        iterate(solution)      # until it's actually good
+    
+    sleep(0)  # optional
+```
+
+---
+
+### `> ./quote --random`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadineninvp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadineninvp&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-<p align="center">
-  <i>I don't just build models. I build the systems around them that make them useful.</i>
-</p>
+<div align="center">
+
+**`if (you.are_building_something_ambitious) { lets_talk(); }`**
+
+<br />
+
+<sub>⚡ Based in Nashville, TN  •  Open to conversations about AI agents, RAG systems, and shipping fast</sub>
+
+</div>
